@@ -1,4 +1,4 @@
-# Gun_census
+# Fire_analysis with Python
 ### Project Overview  Welcome to the exploratory data analysis of the relation between population census dataset and gun record information. The `gun census` file contain total of 27 columns and 12485 rows. The file is the record of information comes from the FBI's national instant Criminal Background check system or NICS. Whenever there is a firearm purchase, gunshop's owner will run a check through the NICS system to ensure that the buyer meet all of the qualification before their purchase. Accompanying the NICS dataset is the U.S. census dataset of which contain serveral variables at the state level. Most variables have only one data point per state (2016), but a few have data for more than one year (poverty). &lt;a href="https://www.census.gov/">Census link&lt;/a>
 # Gun census (FBI Record)
 ## Table of contents
